@@ -1,0 +1,107 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Robot Lesson Overviews"
+  pageRef = "robots"
+  weight = 10
+
+[[main]]
+  name = "Math & Science Learning"
+  pageRef = "mathsci"
+  weight = 20
+
+[[main]]
+  name = "Math Songs"
+  parent = "Math & Science Learning"
+  pageRef = "mathsongs"
+
+
+[[main]]
+  name = "EV3 Robot Challenges"
+  parent = "Robot Lesson Overviews"
+  pageRef = "ev3"
+  weight = 20
+
+[[main]]
+  name = "Accolades"
+  parent = "About Mrs. Pereira"
+  pageRef = "accolades"
+  weight = 20
+
+
+[[main]]
+  name = "About"
+  parent = "About Mrs. Pereira"
+  pageRef = "about"
+  weight= "10"
+
+[[main]]
+  name = "Resume"
+  parent = "About Mrs. Pereira"
+  pageRef = "resume"
+  weight = 20
+
+[[main]]
+  name = "FIRST EV3 Tasks"
+  parent = "Robot Lesson Overviews"
+  pageRef = "FIRST"
+  weight = 20
+
+[[main]]
+  name = "Virtual Online Robots"
+  parent = "Robot Lesson Overviews"
+  pageRef = "vorobots"
+  weight = "10"
+
+[[main]]
+  name = "Finch Robots"
+  parent = "Robot Lesson Overviews"
+  pageRef = "finch"
+  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
