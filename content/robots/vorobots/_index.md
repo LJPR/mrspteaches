@@ -4,6 +4,12 @@ date = 2025-07-31T21:21:29-04:00
 draft = false
 +++
 
+In 2020, I developed lessons for  two free online virtual robots, and continued to use them for students who needed to make work up, or who chose to learn them.
+
+I used OpenRoberta's simple block based language as an introduction for 6th graders.
+
+The GearsBot system, which I used for 7th and 8th grade students,  offers both a block based language and Python - students could choose which one they learned. The lessons were parallel, and the assignments were the same, no matter which language they chose. The coolest thing here is that you can add attachments and sensors to the virtual robot!
+
 
 ## Assignment Instructions for Mario Project
 The students uploaded a mat showing the project that students in the classroom were using, and did almost the same assignment using the virtual robot.
