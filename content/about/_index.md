@@ -1,3 +1,0 @@
-
-
-something in index about

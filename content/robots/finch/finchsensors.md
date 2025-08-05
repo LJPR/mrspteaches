@@ -7,12 +7,12 @@ draft = false
 
 ## Finch Following the Light
 
-{{vimeo 1107250198}}
+{{< vimeo 1107250198 >}}
 
 
 ## Finch Real World Scenario
 
-{{ vimeo 1107252059 }}
+{{< vimeo 1107252059 >}}
 
 
 ## Sensor Demonstrations
