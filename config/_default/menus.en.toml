@@ -30,25 +30,25 @@
   parent = "Robot Lesson Overviews"
   pageRef = "ev3"
   weight = 20
-
-[[main]]
-  name = "Accolades"
-  parent = "About Mrs. Pereira"
-  pageRef = "accolades"
-  weight = 20
-
-
-[[main]]
-  name = "About"
-  parent = "About Mrs. Pereira"
-  pageRef = "about"
-  weight= "10"
-
-[[main]]
-  name = "Resume"
-  parent = "About Mrs. Pereira"
-  pageRef = "resume"
-  weight = 20
+#
+# [[main]]
+#   name = "Accolades"
+#   parent = "About Mrs. Pereira"
+#   pageRef = "accolades"
+#   weight = 20
+#
+#
+# [[main]]
+#   name = "About"
+#   parent = "About Mrs. Pereira"
+#   pageRef = "about"
+#   weight= "10"
+#
+# [[main]]
+#   name = "Resume"
+#   parent = "About Mrs. Pereira"
+#   pageRef = "resume"
+#   weight = 20
 
 [[main]]
   name = "Virtual Online Robots"
