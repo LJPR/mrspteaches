@@ -11,9 +11,14 @@ loved to show the whole carnival at once.
 
 ## Class Carnival Demonstrations
 
-{{< youtubeLite id="Jgt6q1e7dIU" label="Carnival" >}}
+
 
 {{< youtubeLite id="ZEEm1u1rBMU" label="Carnival">}}
+
+-
+
+{{< youtubeLite id="Jgt6q1e7dIU" label="Carnival" >}}
+
 
 
 

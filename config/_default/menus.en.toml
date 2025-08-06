@@ -15,10 +15,6 @@
   pageRef = "robots"
   weight = 10
 
-[[main]]
-  name = "Math & Science Learning"
-  pageRef = "mathsci"
-  weight = 20
 
 [[main]]
   name = "Math Songs"
@@ -38,17 +34,12 @@
 #   weight = 20
 #
 #
-# [[main]]
-#   name = "About"
-#   parent = "About Mrs. Pereira"
-#   pageRef = "about"
-#   weight= "10"
-#
-# [[main]]
-#   name = "Resume"
-#   parent = "About Mrs. Pereira"
-#   pageRef = "resume"
-#   weight = 20
+
+
+ [[main]]
+   name = "Mrs. Pereira's Resume"
+   pageRef = "about"
+   weight = 20
 
 [[main]]
   name = "Virtual Online Robots"

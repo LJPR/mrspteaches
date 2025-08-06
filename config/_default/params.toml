@@ -26,7 +26,7 @@ defaultBackgroundImage = "rpid5924975_edited.jpg" # used as default for backgrou
 defaultFeaturedImage = "rpid5924975_edited.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
@@ -69,7 +69,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   heroStyle = "big"
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -101,7 +101,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTableOfContents = false
   showCards = true
   orderByWeight = false
-  groupByYear = true
+  groupByYear = false
   cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false

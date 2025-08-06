@@ -5,3 +5,6 @@
 
 ## Download the PDF Version
 
+
+
+< a href = "/assets/WebResume_LanaPereira.pdf"> Click Here </a>
