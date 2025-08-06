@@ -16,16 +16,12 @@
   weight = 10
 
 
-[[main]]
-  name = "Math Songs"
-  parent = "Math & Science Learning"
-  pageRef = "mathsongs"
 
 [[main]]
   name = "EV3 Robot Challenges"
   parent = "Robot Lesson Overviews"
   pageRef = "ev3"
-  weight = 20
+
 #
 # [[main]]
 #   name = "Accolades"
@@ -36,22 +32,28 @@
 #
 
 
- [[main]]
-   name = "Mrs. Pereira's Resume"
-   pageRef = "about"
-   weight = 20
+
 
 [[main]]
   name = "Virtual Online Robots"
   parent = "Robot Lesson Overviews"
   pageRef = "vorobots"
-  weight = "10"
+
 
 [[main]]
   name = "Finch & Scribbler Robots"
   parent = "Robot Lesson Overviews"
   pageRef = "finch"
-  weight = 20
+
+[[main]]
+  name= "Math & Science Learning"
+  pageRef = "mathsongs"
+  weight = 30
+
+[[main]]
+  name = "Mrs. Pereira's Resume"
+  pageRef = "about"
+  weight = 100
 
 #[[subnavigation]]
 #  name = "An interesting topic"

@@ -1,10 +1,6 @@
 
 # Resume
 
-{{< figure src=/assets/webresume.jpg alt="Mrs. Pereira's Web Resume" >}}
+## [PDF Version here](WebResume_LanaPereira.pdf)
 
-## Download the PDF Version
-
-
-
-< a href = "/assets/WebResume_LanaPereira.pdf"> Click Here </a>
+{{< figure src="webresume02.png" alt="Mrs. Pereira's Web Resume" >}}
